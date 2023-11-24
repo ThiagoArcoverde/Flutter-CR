@@ -10,7 +10,7 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Produtos"),
       ),
-      body: ProductList(),
+      body: const ProductList(),
     );
   }
 }
